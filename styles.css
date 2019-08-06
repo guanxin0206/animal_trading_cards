@@ -42,3 +42,11 @@ li > span{
 .description{
 	font-style: italic;
 }
+
+ul{
+	padding-inline-start: 0;
+}
+
+ul li{
+	list-style: none;
+}
